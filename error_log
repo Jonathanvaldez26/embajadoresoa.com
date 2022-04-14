@@ -1,0 +1,170 @@
+[08-Apr-2020 17:59:48 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[08-Apr-2020 17:59:48 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[08-Apr-2020 17:59:48 Europe/Moscow] PHP Warning:  include(): Failed opening '../../dato_sociedad.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[08-Apr-2020 13:20:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/neurologia/ingresar_sesion.php on line 27
+[08-Apr-2020 21:57:06 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[08-Apr-2020 21:57:06 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[08-Apr-2020 21:57:06 Europe/Moscow] PHP Warning:  include(): Failed opening '../../dato_sociedad.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/neurologia/login.php on line 3
+[09-Apr-2020 21:36:53 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$apellidom' (T_VARIABLE), expecting ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 21
+[09-Apr-2020 21:38:16 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$apellidom' (T_VARIABLE), expecting ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 20
+[09-Apr-2020 15:09:05 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=1): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:09:05 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=1): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:09:05 America/Mexico_City] PHP Warning:  include(): Failed opening 'enviar_correo_registro.php?id_registrado=1' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:09:22 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=2): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:09:22 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=2): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:09:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'enviar_correo_registro.php?id_registrado=2' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:11:53 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=3): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:11:53 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=3): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:11:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'enviar_correo_registro.php?id_registrado=3' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 45
+[09-Apr-2020 15:12:38 America/Mexico_City] PHP Warning:  require_once(enviar_correo_registro.php?id_registrado=4): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:12:38 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'enviar_correo_registro.php?id_registrado=4' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:13:52 America/Mexico_City] PHP Warning:  require_once(../enviar_correo_registro.php?id_registrado=5): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:13:52 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../enviar_correo_registro.php?id_registrado=5' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 23:16:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected ';' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:17:48 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=1): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:17:48 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=1): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:17:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'enviar_correo_registro.php?id_registrado=1' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 46
+[09-Apr-2020 15:19:21 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=2): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 47
+[09-Apr-2020 15:19:21 America/Mexico_City] PHP Warning:  include(enviar_correo_registro.php?id_registrado=2): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 47
+[09-Apr-2020 15:19:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'enviar_correo_registro.php?id_registrado=2' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/guardar_registrado.php on line 47
+[09-Apr-2020 23:37:30 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/registro.php on line 480
+[09-Apr-2020 15:37:42 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/registro.php on line 250
+[09-Apr-2020 23:52:12 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[09-Apr-2020 23:53:32 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[10-Apr-2020 10:24:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 27
+[10-Apr-2020 10:25:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 27
+[11-Apr-2020 12:19:02 America/Mexico_City] PHP Fatal error:  Class 'PHPMailer' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 568
+[11-Apr-2020 12:22:19 America/Mexico_City] PHP Fatal error:  Class 'SMTP' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/phpmailer/class.phpmailer.php on line 1443
+[11-Apr-2020 12:23:43 America/Mexico_City] PHP Fatal error:  Class 'SMTP' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/phpmailer/class.phpmailer.php on line 1443
+[11-Apr-2020 12:29:33 America/Mexico_City] PHP Fatal error:  Class 'SMTP' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/phpmailer/class.phpmailer.php on line 1443
+[11-Apr-2020 12:30:06 America/Mexico_City] PHP Fatal error:  Class 'SMTP' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/phpmailer/class.phpmailer.php on line 1443
+[11-Apr-2020 12:36:25 America/Mexico_City] PHP Fatal error:  Class 'SMTP' not found in /home/aurochmx/streamingmexico.mx/asofarma/ammom/phpmailer/class.phpmailer.php on line 1443
+[11-Apr-2020 12:44:28 America/Mexico_City] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 567
+[11-Apr-2020 12:44:28 America/Mexico_City] PHP Warning:  require(phpmailer/Exception.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 567
+[11-Apr-2020 12:44:28 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'phpmailer/Exception.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 567
+[11-Apr-2020 20:58:15 Europe/Moscow] PHP Parse error:  syntax error, unexpected ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[11-Apr-2020 20:58:57 Europe/Moscow] PHP Parse error:  syntax error, unexpected ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[11-Apr-2020 13:49:01 America/Mexico_City] PHP Fatal error:  Call to undefined function utf8_edcode() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 588
+[13-Apr-2020 17:39:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 18:23:33 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 18:38:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 19:10:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 19:10:51 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 19:13:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 19:24:35 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 20:04:17 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 20:08:07 Europe/Moscow] PHP Parse error:  syntax error, unexpected end of file in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 607
+[13-Apr-2020 12:12:00 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/enviar_correo_registro.php on line 8
+[15-Apr-2020 23:11:02 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 00:31:52 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 00:33:38 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 04:10:12 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 07:17:23 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 11:54:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 13
+[16-Apr-2020 11:54:57 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 34
+[16-Apr-2020 11:55:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 34
+[16-Apr-2020 19:59:55 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 12:16:10 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 62
+[16-Apr-2020 20:24:05 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:17 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:20 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:21 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:32 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:35 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 64
+[16-Apr-2020 20:24:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:24:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:24:41 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:24:52 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:24:53 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:25:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:25:08 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:25:32 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:25:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:25:49 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:26:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 65
+[16-Apr-2020 20:26:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 67
+[16-Apr-2020 20:26:38 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 67
+[16-Apr-2020 20:26:40 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 67
+[16-Apr-2020 20:26:48 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 67
+[16-Apr-2020 20:26:50 Europe/Moscow] PHP Parse error:  syntax error, unexpected '$respuesta' (T_VARIABLE) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/ingresar_sesion.php on line 67
+[16-Apr-2020 21:12:49 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 21:13:01 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 21:13:01 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 21:13:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 21:13:02 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 21:13:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'base64_encode' (T_STRING) in /home/aurochmx/streamingmexico.mx/asofarma/ammom/index.php on line 2
+[16-Apr-2020 22:16:43 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 23:25:48 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[17-Apr-2020 00:59:55 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[17-Apr-2020 01:35:15 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'registrado' (T_STRING), expecting ',' or ';' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/transmision.php on line 95
+[17-Apr-2020 01:42:23 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[17-Apr-2020 01:46:24 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'registrado' (T_STRING), expecting ',' or ';' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/transmision.php on line 95
+[17-Apr-2020 01:46:37 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'registrado' (T_STRING), expecting ',' or ';' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/transmision.php on line 95
+[17-Apr-2020 01:49:03 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'registrado' (T_STRING), expecting ',' or ';' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/transmision.php on line 95
+[16-Apr-2020 18:03:30 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 14
+[16-Apr-2020 18:03:30 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 15
+[16-Apr-2020 18:11:17 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 14
+[16-Apr-2020 18:11:17 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 15
+[16-Apr-2020 18:13:18 America/Mexico_City] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 14
+[16-Apr-2020 18:13:18 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 15
+[16-Apr-2020 18:22:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[16-Apr-2020 18:23:18 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[16-Apr-2020 18:23:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[16-Apr-2020 18:23:51 America/Mexico_City] PHP Fatal error:  Call to undefined function ExecuteE() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 14
+[16-Apr-2020 18:23:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[16-Apr-2020 18:24:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[16-Apr-2020 18:25:20 America/Mexico_City] PHP Fatal error:  Call to undefined function ExecuteE() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/actualizarHora.php on line 14
+[16-Apr-2020 18:25:26 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 70
+[17-Apr-2020 03:02:32 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[17-Apr-2020 03:27:12 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[17-Apr-2020 03:27:12 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
+[16-Apr-2020 19:33:48 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 94
+[16-Apr-2020 19:34:13 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 94
+[16-Apr-2020 19:34:18 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:34:18 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[16-Apr-2020 19:34:20 America/Mexico_City] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:34:20 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[16-Apr-2020 19:34:38 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:34:38 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[16-Apr-2020 19:34:43 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:34:43 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[16-Apr-2020 19:34:59 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:34:59 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[16-Apr-2020 19:35:06 America/Mexico_City] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 95
+[16-Apr-2020 19:35:06 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 100
+[17-Apr-2020 03:39:28 Europe/Moscow] PHP Parse error:  syntax error, unexpected ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 84
+[16-Apr-2020 20:19:19 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:19:19 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:27:06 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:27:06 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:27:07 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:27:08 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[16-Apr-2020 20:27:08 America/Mexico_City] PHP Warning:  mysql_connect(): No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/bd/conexion.php on line 19
+[17-Apr-2020 04:40:40 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[17-Apr-2020 04:40:40 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[17-Apr-2020 04:40:40 Europe/Moscow] PHP Warning:  include(): Failed opening '../../dato_sociedad.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[17-Apr-2020 04:40:49 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[17-Apr-2020 04:40:49 Europe/Moscow] PHP Warning:  include(../../dato_sociedad.php): failed to open stream: No such file or directory in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[17-Apr-2020 04:40:49 Europe/Moscow] PHP Warning:  include(): Failed opening '../../dato_sociedad.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aurochmx/streamingmexico.mx/asofarma/ammom/login.php on line 3
+[16-Apr-2020 21:11:10 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 99
+[16-Apr-2020 21:11:50 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 99
+[16-Apr-2020 21:12:40 America/Mexico_City] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 100
+[16-Apr-2020 21:12:59 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 100
+[16-Apr-2020 21:13:31 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 94
+[16-Apr-2020 21:14:42 America/Mexico_City] PHP Fatal error:  Call to undefined method BD::query() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 94
+[16-Apr-2020 21:16:56 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 125
+[16-Apr-2020 21:18:05 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 125
+[16-Apr-2020 21:28:27 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 190
+[16-Apr-2020 21:28:33 America/Mexico_City] PHP Fatal error:  Call to a member function query() on null in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 190
+[16-Apr-2020 21:33:08 America/Mexico_City] PHP Fatal error:  Call to undefined function utf8_enco() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 87
+[16-Apr-2020 21:33:19 America/Mexico_City] PHP Fatal error:  Call to undefined function utf8_enco() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 87
+[17-Apr-2020 05:34:39 Europe/Moscow] PHP Parse error:  syntax error, unexpected ')' in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 169
+[16-Apr-2020 21:35:38 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/estadisticas.php on line 170
+[16-Apr-2020 21:54:53 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 105
+[16-Apr-2020 21:55:19 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 105
+[16-Apr-2020 21:55:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 105
+[16-Apr-2020 21:55:39 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 105
+[16-Apr-2020 21:55:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/preguntas_ponente.php on line 105
+[22-Apr-2020 04:04:04 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/aurochmx/streamingmexico.mx/asofarma/ammom/obtener_estados.php on line 8
