@@ -6,7 +6,7 @@ class BD{
 	//datos de conexion
 	var $host = "localhost";
 	var $user = "aurochmx_stream";
-	var $password = "Streaming1234";
+	var $password = "/*/*ia88tl41";
 	var $database = "asofarma_embajadores";
 	var $conn;
 	
